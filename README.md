@@ -13,6 +13,8 @@
 
 - A passionate backend developer
 - Currently learning Java, C and python
+- Cyber security enthusiast
+- Coding since 2021
 - I’m currently open for an Intern or a new job opportunity, this is [my EN resume](https://drive.google.com/file/d/1XFQqCJzmib7gl3OcMlC0JUQ8Blr28Bmz/view?usp=share_link) and this [my PT resume](https://drive.google.com/file/d/1eQ_EKk2OlMYP0VL50gUL6ONjm8Gwv2ni/view?usp=share_link)
 
 <br><br>
