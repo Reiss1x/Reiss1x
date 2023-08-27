@@ -12,7 +12,8 @@
 <br>
 
 - A passionate backend developer
-- Currently learning Java, C and python
+- Currently learning Java, C, Haskell, GO and Python
+- Knowledge in HTML, CSS, SQL and GIT.
 - Cyber security enthusiast
 - Coding since 2021
 - I’m currently open for an Intern or a new job opportunity, this is [my EN resume](https://drive.google.com/file/d/1l85c5cMJGezj2hFFmdywYZ4SjaIi4oVG/view?usp=drive_link) and this [my PT resume](https://drive.google.com/file/d/1BhrjaIw2poaISODYqUxinLh1vL4_cljf/view?usp=drive_link)
