@@ -12,7 +12,7 @@
 <br>
 
 - A passionate backend developer
-- Currently learning Java, C, Haskell, GO and Python
+- Currently learning Java, JavaScript, C, Haskell, GO and Python
 - Knowledge in HTML, CSS, SQL and GIT.
 - Cyber security enthusiast
 - Coding since 2021
