@@ -87,7 +87,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/gabriel-reis-46b091234/" target="_blank">
+<a href="https://www.linkedin.com/in/devgabrielreis/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Gabriel Reis-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
