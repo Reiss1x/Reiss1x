@@ -8,7 +8,7 @@
 - Frameworks: ReactJS, NodeJS, Springboot
 - Cyber security enthusiast
 - Coding since 2021
-- I’m currently open for an Intern or a new job opportunity, this is [my EN resume](https://drive.google.com/file/d/1l85c5cMJGezj2hFFmdywYZ4SjaIi4oVG/view?usp=drive_link) and this [my PT resume](https://drive.google.com/file/d/1BhrjaIw2poaISODYqUxinLh1vL4_cljf/view?usp=drive_link)
+- I’m currently open for an Intern or a new job opportunity, this is [my EN resume](https://drive.google.com/file/d/1ZiLJ-pj2J4Mm4itXdH0AWozSzqN8k8Op/view?usp=drive_link) and this [my PT resume](https://drive.google.com/file/d/1zaPm6YPF18_jV1SaetT8lgQ7LRTiLlTD/view?usp=drive_link)
 
 <br><br>
 
