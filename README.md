@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Science+Student+%40PUCRS;Brazilian+Developer;CyberSecurity+Enthusiast;Tech+Enjoyer" alt="Typing SVG" /></a></p>
 
-- A passionate back-end developer, studying fornt-end as well!!
+- A passionate back-end developer, studying front-end as well!!
 - Coding: Java, JavaScript, C
 - Web and database: HTML, CSS, Bootstrap, MySQL, MongoDB
 - Frameworks: ReactJS, NodeJS, Springboot
