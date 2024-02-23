@@ -49,6 +49,8 @@
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reiss1x)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
