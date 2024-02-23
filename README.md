@@ -2,11 +2,8 @@
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Science+Student+%40PUCRS;Brazilian+Developer;CyberSecurity+Enthusiast;Tech+Enjoyer" alt="Typing SVG" /></a></p>
 
-- A passionate back-end developer, studying front-end as well!!
-- Coding: Java, JavaScript, C
-- Web and database: HTML, CSS, Bootstrap, MySQL, MongoDB
-- Frameworks: ReactJS, NodeJS, Springboot
-- Cyber security enthusiast
+- A passionate back-end developer, studying front-end and working as Network Infrastructure intern.
+- Cyber security and design enthusiast
 - Coding since 2021
 - I’m currently open for an Intern or a new job opportunity, this is [my EN resume](https://drive.google.com/file/d/1l85c5cMJGezj2hFFmdywYZ4SjaIi4oVG/view?usp=drive_link) and this [my PT resume](https://drive.google.com/file/d/1BhrjaIw2poaISODYqUxinLh1vL4_cljf/view?usp=drive_link)
 
@@ -18,11 +15,14 @@
 
 <p align="center">
 
-- **Languages**:
+- **Languages and frameworks**:
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React]( https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 - **Cloud Hosting**:
 
@@ -32,14 +32,13 @@
 - **Softwares and Tools**:
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - **Extras**:
-	
+  
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  
 </p>
 
 <br>
@@ -80,6 +79,7 @@
 <li>
 <a href="https://www.linkedin.com/in/devgabrielreis/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Gabriel Reis-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+
 </a>
 </li>
 <li>
