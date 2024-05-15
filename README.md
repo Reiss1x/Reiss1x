@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Science+Student+%40PUCRS;Brazilian+Developer;CyberSecurity+Enthusiast;Tech+Enjoyer" alt="Typing SVG" /></a></p>
 
-- A passionate back-end developer, studying front-end and working as Network Infrastructure intern.
+- A passionate fullstack developer and working as Network Infrastructure intern.
 - Cyber security and design enthusiast
 - Coding since 2021
 - I’m currently open for an Intern or a new job opportunity, this is [my EN resume](https://drive.google.com/file/d/1l85c5cMJGezj2hFFmdywYZ4SjaIi4oVG/view?usp=drive_link) and this [my PT resume](https://drive.google.com/file/d/1BhrjaIw2poaISODYqUxinLh1vL4_cljf/view?usp=drive_link)
